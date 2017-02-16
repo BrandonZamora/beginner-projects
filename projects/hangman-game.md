@@ -8,3 +8,4 @@
 
 ##### Solutions
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Hangman.py)
+- [BrandonZamora](https://github.com/BrandonZamora/Hangman.py/blob/master/gamecode)
